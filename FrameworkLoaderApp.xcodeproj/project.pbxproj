@@ -76,6 +76,7 @@
 		E52A8F0C2018449A0043BB75 /* PluginInterface.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PluginInterface.swift; sourceTree = "<group>"; };
 		E52A8F0F201845040043BB75 /* FrameworkSwift.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = FrameworkSwift.xcodeproj; path = ../FrameworkSwift/FrameworkSwift.xcodeproj; sourceTree = "<group>"; };
 		E52A8F152018450A0043BB75 /* FrameworkObjC.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = FrameworkObjC.xcodeproj; path = ../FrameworkObjC/FrameworkObjC.xcodeproj; sourceTree = "<group>"; };
+		E52A8F2C201853350043BB75 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +95,7 @@
 			children = (
 				E52A8F152018450A0043BB75 /* FrameworkObjC.xcodeproj */,
 				E52A8F0F201845040043BB75 /* FrameworkSwift.xcodeproj */,
+				E52A8F2C201853350043BB75 /* README.md */,
 				E52A8EF82018445C0043BB75 /* FrameworkLoaderApp */,
 				E52A8EF72018445C0043BB75 /* Products */,
 			);
